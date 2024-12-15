@@ -48,7 +48,6 @@ Name of views should contain keywords like `View`, `LinearLayout`, `StackView`, 
 If both permanent and temporary views are displayed on the screen, they should be separated into different subgroups.
 
 ```
-// ****************
 // Views – permanent, temporary
 ```
 
@@ -60,7 +59,6 @@ Set of **private** supporting methods for initializing the screen in general, ex
 The order of initialization methods always remains unchanged, accompanied by relevant comments.
 
 ```
-// ****************
 // Setup – screen, extras, properties, views
 ```
 
